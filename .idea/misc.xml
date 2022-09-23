@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CookAndroid/Project/signlanguage_ds/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/CookAndroid/Project/signlanguage_ds/app/src/main/res/layout/activity_mmain.xml" value="0.25364583333333335" />
+        <entry key="..\:/CookAndroid/Project/signlanguage_ds/app/src/main/res/layout/activity_trn.xml" value="0.264" />
+        <entry key="..\:/CookAndroid/Project/signlanguage_ds/app/src/main/res/layout/activity_video.xml" value="0.23802083333333332" />
+        <entry key="..\:/CookAndroid/Project/signlanguage_ds/app/src/main/res/layout/maintoolbar.xml" value="0.23645833333333333" />
+        <entry key="..\:/CookAndroid/signlanguage_ds-main/app/src/main/res/layout/activity_main.xml" value="0.13043478260869565" />
+        <entry key="..\:/CookAndroid/signlanguage_ds-main/app/src/main/res/layout/activity_mmain.xml" value="0.24947916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android API 29 Platform" project-jdk-type="Android SDK" />
+</project>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "864459952478",
+    "project_id": "dukkebi-981f7",
+    "storage_bucket": "dukkebi-981f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864459952478:android:8697e5bc64e6d89e9d7fcf",
+        "android_client_info": {
+          "package_name": "com.google.codelab.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864459952478-603bgto8ef6t6e936bj9kka29uektaje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxZ7e-kxGq4Uu_x-PoNs0K166jvSJF68s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864459952478-603bgto8ef6t6e936bj9kka29uektaje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

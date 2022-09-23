@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="UnusedAttribute,ResourceCycle">
+    <font
+        android:font="@font/nanum"
+        android:fontStyle="normal"
+        app:font="@font/nanum"
+        app:fontStyle="normal" />
+
+    <font
+        android:font="@font/nanumbold"
+        android:fontStyle="normal"
+        app:font="@font/nanumbold"
+        android:fontWeight="200"
+        app:fontWeight="200"
+        app:fontStyle="normal"/>
+
+</font-family>
